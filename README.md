@@ -1,2 +1,2 @@
 # Portfolio
-Completed projects I have done through Thinkful
+Completed data projects
